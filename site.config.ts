@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '李礼的个人博客',
-  domain: 'https://www.notion.so/534ddfe3cb324cda93a551b24b7d3719',
+  domain: 'https://www.notion.so/lili4cityu/534ddfe3cb324cda93a551b24b7d3719',
   author: '李礼',
 
   // open graph metadata (optional)
